@@ -19,7 +19,7 @@ Utilizo GitHub principalmente para:
 ### Tecnologías que estoy aprendiendo 💻
 
 
-`Python` (¡aprendiendo!) `HTML` `JavaScript` (próximamente) 
+`Python` (¡aprendiendo!) `HTML`(¡aprendido!) `JavaScript` (próximamente) 
 
 
 ¡Gracias por visitar mi perfil y seguir mi viaje de aprendizaje! 😊
