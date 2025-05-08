@@ -18,7 +18,7 @@ Utilizo GitHub principalmente para:
 
 ### Tecnologías que estoy aprendiendo 💻
 
-_(Coloca aquí los lenguajes o tecnologías con los que estás empezando o te interesan)_
+
 `Python` (¡aprendiendo!) `HTML` `JavaScript` (próximamente) 
 
 
