@@ -1,16 +1,31 @@
-## Hi there 👋
+# Info mia:
 
-<!--
-**jose-ruti/jose-ruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ¡Hola! 👋 Soy Jose Ruti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando **Ingeniería en Informática** y me encuentro en el camino de aprender a programar. Voy dando mis pasos de a poco, ¡pero cada día aprendo algo nuevo y sigo avanzando! 🚀
+
+Me interesa explorar diferentes áreas de la tecnología a medida que progreso en mis estudios y habilidades de codificación.
+
+### ¿Por qué GitHub? 🤔
+
+Utilizo GitHub principalmente para:
+* Documentar mi proceso de aprendizaje.
+* Guardar los proyectos y ejercicios que voy realizando.
+* Conectar con otros estudiantes y desarrolladores.
+* ¡Eventualmente, espero poder colaborar en proyectos interesantes!
+
+
+### Tecnologías que estoy aprendiendo 💻
+
+_(Coloca aquí los lenguajes o tecnologías con los que estás empezando o te interesan)_
+`Python` (¡aprendiendo!) `HTML` `JavaScript` (próximamente) 
+
+
+¡Gracias por visitar mi perfil y seguir mi viaje de aprendizaje! 😊
+
+<center>
+<p align="center">
+  <img src="https://media1.tenor.com/m/Q9BNVX6QGEsAAAAC/vscode-visual.gif" width="300">
+</p>
+<center/>
